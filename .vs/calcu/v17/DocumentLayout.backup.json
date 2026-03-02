@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Downloads\\calcu\\calcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|solutionrelative:calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|c:\\users\\student\\downloads\\calcu\\calcu\\calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|solutionrelative:calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|c:\\users\\student\\downloads\\calcu\\calcu\\calcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844AEDE-0C4C-46C5-A19D-EB1D356CD6C0}|calcu\\calcu.csproj|solutionrelative:calcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "calcu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.Designer.cs",
+              "RelativeToolTip": "calcu\\Form1.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAjwAMBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:43:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "calcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.cs",
+              "RelativeToolTip": "calcu\\Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:01:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "calcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\calcu\\calcu\\calcu\\Form1.cs [Design]",
+              "RelativeToolTip": "calcu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:55:27.497Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
